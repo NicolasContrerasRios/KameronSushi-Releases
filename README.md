@@ -5,10 +5,10 @@ Kameron Sushi. No contiene el código fuente, credenciales ni datos del restaura
 
 ## Aplicación de escritorio
 
-La versión piloto actual es **0.9.0** para Windows 10/11 de 64 bits.
+La versión piloto actual es **0.9.1** para Windows 10/11 de 64 bits.
 
 1. Abre la sección [Releases](https://github.com/NicolasContrerasRios/KameronSushi-Releases/releases).
-2. Descarga `KameronSushi-Escritorio-0.9.0-win-x64.zip`.
+2. Descarga `KameronSushi-Escritorio-0.9.1-win-x64.zip`.
 3. Extrae el ZIP completo.
 4. Ejecuta `Instalar-KameronSushi.cmd`.
 
