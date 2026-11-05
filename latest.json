@@ -1,0 +1,8 @@
+{
+  "version": "0.9.0",
+  "url": "https://github.com/NicolasContrerasRios/KameronSushi-Releases/releases/download/v0.9.0/KameronSushi-Escritorio-0.9.0-win-x64.zip",
+  "sha256": "017D7F5AED49125EE272BEE9B640ACD3C94AF96D9C207067B51522B740EB04EF",
+  "mandatory": false,
+  "minimumVersion": "0.9.0",
+  "notes": "Primera versión piloto instalable de Caja, Cocina y Administración."
+}

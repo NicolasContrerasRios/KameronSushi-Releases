@@ -1,0 +1,14 @@
+*.zip
+*.exe
+*.msi
+*.aab
+*.apk
+*.jks
+*.keystore
+*.pfx
+*.p12
+*.pem
+*.key
+*.env
+*secret*
+*credential*
