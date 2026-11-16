@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/NicolasContrerasRios/KameronSushi-Releases/releases/download/v0.9.1/KameronSushi-Escritorio-0.9.1-win-x64.zip",
-  "sha256": "82E9467034DFCEB836C980DB348DE161DC72FD1CD8665ED9750A79317D35C9DC",
+  "version": "0.11.0",
+  "url": "https://github.com/NicolasContrerasRios/KameronSushi-Releases/releases/download/v0.11.0/KameronSushi-Escritorio-0.11.0-win-x64.zip",
+  "sha256": "00621B4765E26FF5FF40FCC8A1C785B9480ECD3FBBC970D0AA4FE9D6EF6288D0",
   "mandatory": false,
   "minimumVersion": "0.9.0",
-  "notes": "Versión piloto con actualizaciones automáticas verificadas, Caja, Cocina y Administración."
+  "notes": "Nueva numeración de pedidos por turno, selector táctil paginado en Caja y mejoras de operación, impresión y respaldos."
 }
